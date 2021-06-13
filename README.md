@@ -31,8 +31,8 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['html,css,js,python'];
-  bibliotecas  = ['pandas,numpy, matplotlib, seaborn, sklearn, tensorflow'];
+  linguagens  = ['html, css, js, python'];
+  bibliotecas  = ['pandas, numpy, matplotlib, seaborn, sklearn, tensorflow'];
   frameworks = ['TailwindCSS, Booststrap'];
 }
  
