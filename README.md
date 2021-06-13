@@ -3,9 +3,9 @@
 >
 > 🤔  Explorando novas tecnologias e desenvolvendo soluções de software.
 >
-> 🎓  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** no [UNINOVE](https://github.com/iuricode/readme-template/blob/main/README-profile/(https://www.uninove.br/).
+> 🎓  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** no [UNINOVE](https://www.uninove.br/).
 >
-> 💼  Trabalhando como **ESTAGIARIO DEV FRONT-END** na [Grupo iv2](https://github.com/iuricode/readme-template/blob/main/README-profile/(https://iv2.com.br/))
+> 💼  Trabalhando como **ESTAGIARIO DEV FRONT-END** na [Grupo iv2](https://iv2.com.br/))
 >
 > 🌱  Aprendendo mais sobre **HTML, CSS, JAVASCRIPT, PYTHON**.
 
