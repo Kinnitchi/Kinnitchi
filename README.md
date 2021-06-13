@@ -1,6 +1,5 @@
 # 💜 Olá, meu nome é {Kinnitchi}!
 
-> Faça uma breve aprensentação sobre você e a sua área.
 >
 > 🤔  Explorando novas tecnologias e desenvolvendo soluções de software.
 >
@@ -12,7 +11,9 @@
 
 
 
+
 🔭 Estou trabalhando no meu portfolio... ele está 0%.
+
 
 
 
