@@ -80,5 +80,3 @@ class Skills extends Desenvolvedor {
 📺 [twitch][twitch] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
-
-
