@@ -12,7 +12,7 @@
 
 
 
-🔭 Estou trabalhando no meu portfolio... ele está 0%.
+🔭 Estou trabalhando no meu portfolio... ele está 6%.
 
 
 
