@@ -22,22 +22,22 @@
 ```
 
 
-import Desenvolvedor from 'Kinnitchi';
-
-class SobreMim extends Desenvolvedor {
-  nome     = 'Igor Vieira de Oliviera';
-  area    = 'Estagiario Front-end';
-  trabalho  = 'Grupo iv2';
-  local = 'SP';
+function Kinnitchi()
+{
+  const SobreMim = 'Desenvolvedor',
+  nome     = 'Igor Vieira de Oliviera',
+  area     = 'Estagiario Front-end',
+  empresa  = 'Grupo iv2',
+  local    = 'SP'
 }
 
-class Skills extends Desenvolvedor {
-  linguagens  = ['html, css, js, python'];
-  bibliotecas  = ['pandas, numpy, matplotlib, seaborn, sklearn, tensorflow'];
-  frameworks = ['TailwindCSS, Booststrap'];
+function Skills()
+{ const Desenvolvedor = linguagens  = ['html, css, js, python'],
+  bibliotecas  = ['pandas, numpy, matplotlib, seaborn, sklearn, tensorflow'],
+  frameworks = ['TailwindCSS, Booststrap']
 }
- 
- const languages = ('Html', 'CSS', 'JavaScript','Python') 
+
+const languages = ('Html', 'CSS', 'JavaScript','Python') 
 
 }
 ```
