@@ -25,10 +25,10 @@
 function Kinnitchi()
 {
   const SobreMim = 'Desenvolvedor',
-  nome     = 'Igor Vieira de Oliviera',
-  area     = 'Estagiario Front-end',
-  empresa  = 'Grupo iv2',
-  local    = 'SP'
+  const nome     = 'Igor Vieira de Oliviera',
+  var area       = 'Estagiario Front-end',
+  var empresa    = 'Grupo iv2',
+  let local      = 'SP'
 }
 
 function Skills()
