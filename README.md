@@ -1,4 +1,4 @@
-# 💜 Olá, meu nome é {Kinnitchi}!
+# 💜 Olá, meu nome é Igor Vieira {Kinnitchi}!
 
 >
 > 🤔  Explorando novas tecnologias e desenvolvendo soluções de software.
