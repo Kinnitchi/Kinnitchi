@@ -28,8 +28,8 @@ function Kinnitchi()
   const nome        = 'Igor Vieira de Oliviera';
   // var area       = 'Estagiario Front-end';
   // var empresa    = 'Grupo iv2';
-  // var area       = 'Buscando vaga na Area';
-  // var empresa    =  null;
+  var area       = 'Buscando vaga na Area';
+  var empresa    =  null;
   var local         = 'SP'
 }
 
