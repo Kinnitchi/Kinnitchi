@@ -24,17 +24,19 @@
 
 function Kinnitchi()
 {
-  const SobreMim = 'Desenvolvedor',
-  const nome     = 'Igor Vieira de Oliviera',
-  var area       = 'Estagiario Front-end',
-  var empresa    = 'Grupo iv2',
-  let local      = 'SP'
+  const SobreMim    = 'Desenvolvedor';
+  const nome        = 'Igor Vieira de Oliviera';
+  // var area       = 'Estagiario Front-end';
+  // var empresa    = 'Grupo iv2';
+  // var area       = 'Buscando vaga na Area';
+  // var empresa    =  null;
+  var local         = 'SP'
 }
 
 function Skills()
 { const Desenvolvedor = linguagens  = ['html, css, js, python'],
-  bibliotecas  = ['pandas, numpy, matplotlib, seaborn, sklearn, tensorflow'],
-  frameworks = ['TailwindCSS, Booststrap']
+  var bibliotecas  = ['jQuery, select2, matplotlib, seaborn, sklearn, tensorflow'],
+  var frameworks = ['TailwindCSS, Booststrap']
 }
 
 const languages = ('Html', 'CSS', 'JavaScript','Python') 
