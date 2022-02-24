@@ -7,7 +7,7 @@
 >
 > 💼  **EX ESTAGIARIO DEV FRONT-END** na [Grupo iv2](https://iv2.com.br/))
 >
-> 🌱  Aprendendo mais sobre **HTML, CSS, JAVASCRIPT, PYTHON**.
+> 🌱  Aprendendo mais sobre **HTML, CSS, JAVASCRIPT, JAVA**.
 
 
 
