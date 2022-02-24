@@ -3,9 +3,9 @@
 >
 > 🤔  Explorando novas tecnologias e desenvolvendo soluções de software.
 >
-> 🎓  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** no [UNINOVE](https://www.uninove.br/).
+> 🎓  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na [UNINOVE](https://www.uninove.br/).
 >
-> 💼  **EX ESTAGIARIO DEV FRONT-END** na [Grupo iv2](https://iv2.com.br/))
+> 💼  **EX ESTAGIARIO DEV FRONT-END** na EMPRESA [Grupo iv2](https://iv2.com.br/))
 >
 > 🌱  Aprendendo mais sobre **HTML, CSS, JAVASCRIPT, JAVA**.
 
