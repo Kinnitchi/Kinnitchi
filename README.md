@@ -66,6 +66,9 @@ const languages = ('Html', 'CSS', 'JavaScript','Python')
 
 <a href="https://github.com/Kinnitchi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kinnitchi&show_icons=true&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
+
+![Snake animation](https://github.com/kinnitchi/kinnitchi/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 <br>
 
