@@ -15,9 +15,7 @@
 🔭 Estou trabalhando no meu portfolio... ele está 6%.
 
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
-<img align="center" width="600" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47h80s0xk5ir74uygy4f7z4z0s8ryalc3hl1js91dh&rid=200.webp&ct=g" />
+<img align="center" width="600" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" />
 
 ```
 
