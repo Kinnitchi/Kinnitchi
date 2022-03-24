@@ -29,7 +29,7 @@ const nome        = 'Igor Vieira de Oliviera';
 
 let area       = 'Buscando vaga na Area';
 let empresa    =  null;
-let local         = 'SP'
+let local      = 'SP'
 
 let desenvolvedor = { 
     linguagens: ['html', 'css', 'javaScript', 'python'],
