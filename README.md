@@ -17,28 +17,6 @@
 
 <img align="center" width="600" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" />
 
-```
-
-const SobreMim    = 'Desenvolvedor';
-const nome        = 'Igor Vieira de Oliviera';
-
-/* 
-*  let area       = 'Estagiario Front-end';
-*  let empresa    = 'Grupo iv2';
-*/
-
-let area       = 'Buscando vaga na Area';
-let empresa    =  null;
-let local      = 'SP'
-
-let desenvolvedor = { 
-    linguagens: ['html', 'css', 'javaScript', 'python'],
-    bibliotecas: ['jQuery, select2, matplotlib, seaborn, sklearn, tensorflow'],
-    frameworks: ['TailwindCSS, Booststrap']
-}
-
-```
-
 ## **Linguagens e Ferramentas:**  
 
 
