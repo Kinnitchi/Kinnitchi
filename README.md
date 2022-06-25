@@ -3,7 +3,7 @@
 >
 > 🤔  Explorando novas tecnologias e desenvolvendo soluções de software.
 >
-> 🎓  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na [UNINOVE](https://www.uninove.br/).
+> 🎓  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na [UNINOVE](https://www.uninove.br/).<br>
 > 💼  // ESTAGIARIO DEV FRONT-END** na EMPRESA [Grupo iv2](https://iv2.com.br/).<br>
 > 💼  // ESTAGIARIO DEV FRONT-END** na EMPRESA [Fundação Vanzolini](https://vanzolini.org.br/).<br>
 > 💼  // ESTAGIARIO DEV FRONT-END** na EMPRESA [2Be Consulting](https://2beconsulting.com.br/). 
