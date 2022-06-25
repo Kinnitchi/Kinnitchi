@@ -5,11 +5,11 @@
 >
 > 🎓  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na [UNINOVE](https://www.uninove.br/).
 >
-> 💼  **EX ESTAGIARIO DEV FRONT-END** na EMPRESA [Grupo iv2](https://iv2.com.br/))
->
+> 💼  // ESTAGIARIO DEV FRONT-END** na EMPRESA [Grupo iv2](https://iv2.com.br/))
+> 💼  // ESTAGIARIO DEV FRONT-END** na EMPRESA [Fundação Vanzolini](https://vanzolini.org.br/))
+> 💼  // ESTAGIARIO DEV FRONT-END** na EMPRESA [2Be Consulting](https://2beconsulting.com.br/))
+
 > 🌱  Aprendendo mais sobre **HTML, CSS, JAVASCRIPT, NODE, VUE e ANGULAR**.
-
-
 
 
 🔭 Estou trabalhando no meu portfolio... ele está 6%.
