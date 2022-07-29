@@ -8,7 +8,7 @@
 > 💼  // ESTAGIARIO DEV FRONT-END** na EMPRESA [Fundação Vanzolini](https://vanzolini.org.br/).<br>
 > 💼  DEV FRONT-END** na EMPRESA [2Be Consulting](https://2beconsulting.com.br/). 
 
-> 🌱  Aprendendo mais sobre **HTML, CSS, JAVASCRIPT, NODE, VUE e ANGULAR**.
+> 🌱  Aprendendo sobre **HTML, CSS, JAVASCRIPT, VUE e sobre a Plataform FLUIG**.
 
 
 🔭 Estou trabalhando no meu portfolio... ele está 6%.
