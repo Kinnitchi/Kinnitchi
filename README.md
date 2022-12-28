@@ -6,7 +6,7 @@
 > 🎓  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na [UNINOVE](https://www.uninove.br/).<br>
 > 💼  // ESTAGIARIO DEV FRONT-END FLUIG** na EMPRESA [Grupo iv2](https://iv2.com.br/).<br>
 > 💼  // ESTAGIARIO DEV FRONT-END WORDPRESS** na EMPRESA [Fundação Vanzolini](https://vanzolini.org.br/).<br>
-> 💼  DEV FRONT-END FLUIG** na EMPRESA [2Be Consulting](https://2beconsulting.com.br/).<br>
+> 💼  **DEV FRONT-END FLUIG** na EMPRESA [2Be Consulting](https://2beconsulting.com.br/).<br>
 > 🌱  Aprendendo sobre **HTML, CSS, JAVASCRIPT, VUE e sobre a Plataforma FLUIG**.
 
 
