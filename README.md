@@ -11,7 +11,7 @@
 > 🌱  Conhecimento em **HTML, CSS, JAVASCRIPT, NODE, SQL e sobre a Plataforma FLUIG**.
 
 
-🔭 Estou trabalhando no meu portfolio... ele está 6%.
+🔭 Estou trabalhando no meu portfolio... [Portfolio](https://acqio.com.br/) ele está 66%.
 
 
 <img align="center" width="600" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
