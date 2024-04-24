@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0977FF&multiline=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Igor+Oliveira!+;Conhecido+como+Kinnitchi.)](https://git.io/typing-svg)
 
-> 🤔  Explorando novas tecnologias e desenvolvendo soluções de software.
+> 🤔  Explorando novas tecnologias e desenvolvendo soluções de software.<br>
 > 🎓  Formado em **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na [UNINOVE](https://www.uninove.br/).<br>
 > 💼  // ESTAGIARIO DEV FRONT-END FLUIG** na EMPRESA [Grupo iv2](https://iv2.com.br/).<br>
 > 💼  // ESTAGIARIO DEV FRONT-END WORDPRESS** na EMPRESA [Fundação Vanzolini](https://vanzolini.org.br/).<br>
