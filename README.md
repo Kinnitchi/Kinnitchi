@@ -3,7 +3,7 @@
 
 > **Software engineer** at compnay [Acqio](https://acqio.com.br/).<br>
 >  I'm working on my portfolio...  [Portfolio](https://kinnitchi.github.io/portfolio/) he's 66%. <br>
->  Theme I developed for vscode  based in Dracula and Legendary Dark. [Theme](https://marketplace.visualstudio.com/items?itemName=Kinnitchi.kinnitchi-theme&ssr=false#review-details)
+>  Theme developed by me based on Dracula and Legendary Dark themes [Theme](https://marketplace.visualstudio.com/items?itemName=Kinnitchi.kinnitchi-theme&ssr=false#review-details)
 
 <h3 align="left">My Stacks</h3>
 <div align="left">
