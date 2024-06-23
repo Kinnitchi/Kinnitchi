@@ -1,15 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0977FF&multiline=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Igor+Oliveira!+;Conhecido+como+Kinnitchi.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=44F4F4&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Igor!+Known+as+Kinnitchi.+;I'm+a+software+engineer++at+Acqio.)](https://git.io/typing-svg)
 
-> 🤔  Explorando novas tecnologias e desenvolvendo soluções de software.<br>
-> 🎓  Formado em **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na [UNINOVE](https://www.uninove.br/).<br>
-> 💼  // ESTAGIARIO DEV FRONT-END FLUIG** na EMPRESA [Grupo iv2](https://iv2.com.br/).<br>
-> 💼  // ESTAGIARIO DEV FRONT-END WORDPRESS** na EMPRESA [Fundação Vanzolini](https://vanzolini.org.br/).<br>
-> 💼  // DEV FRONT-END FLUIG na EMPRESA [2Be Consulting](https://2beconsulting.com.br/).<br>
-> 💼  **SOFTWARE ENGINEER** na EMPRESA [Acqio](https://acqio.com.br/).<br>
 
-🔭 Estou trabalhando no meu portfolio... [Portfolio](https://kinnitchi.github.io/portfolio/) ele está 66%.
+> **Software engineer** at compnay [Acqio](https://acqio.com.br/).<br>
+>  I'm working on my portfolio...  [Portfolio](https://kinnitchi.github.io/portfolio/) he's 66%. <br>
+>  Theme I developed for vscode  based in Dracula and Legendary Dark. [Theme](https://marketplace.visualstudio.com/items?itemName=Kinnitchi.kinnitchi-theme&ssr=false#review-details)
 
-<h3 align="left">My Stack</h3>
+<h3 align="left">My Stacks</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5"  />
   <img width="8" />
