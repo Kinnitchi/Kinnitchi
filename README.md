@@ -1,9 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=44F4F4&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Igor!+Known+as+Kinnitchi.+;I'm+a+software+engineer++at+Acqio.)](https://git.io/typing-svg)
-
-
+.
 > **Software engineer** at compnay [Acqio](https://acqio.com.br/).<br>
 >  I'm working on my portfolio...  [Portfolio](https://kinnitchi.github.io/portfolio/) he's 66%. <br>
 >  Theme developed by me based on Dracula and Legendary Dark themes [Theme](https://marketplace.visualstudio.com/items?itemName=Kinnitchi.kinnitchi-theme&ssr=false#review-details)
+
+<h3>GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kinnitchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kinnitchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 <h3 align="left">My Stacks</h3>
 <div align="left">
@@ -40,14 +46,6 @@
 </div>
 
 
-
-
-<h3>GitHub Stats</h3>
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kinnitchi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=004f9f&text_color=FFF&border_radius=3&border_color=0066ff&icon_color=004f9f&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kinnitchi&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=004f9f&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=0066ff&count_private=true)](https://github.com/kinnitchi/github-readme-stats)
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinnitchi/kinnitchi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kinnitchi/kinnitchi/output/github-contribution-grid-snake.svg">
@@ -61,5 +59,9 @@
   <a href="https://www.instagram.com/kinnitchi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/kinnitchi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/kinnitchi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kinnitchi/count.svg?"  />
+</div>
 
 
