@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=44F4F4&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Igor!+Known+as+Kinnitchi.+;I'm+a+software+engineer++at+Acqio.)](https://git.io/typing-svg)
 .
 > **Software engineer** at compnay [Acqio](https://acqio.com.br/).<br>
->  I'm working on my portfolio...  [Portfolio](https://kinnitchi.github.io/portfolio/) he's 66%. <br>
+>  I'm working on my portfolio...  [Portfolio](https://kinnitchi.github.io/kinnitchi.portfolio/) he's 89%. <br>
 >  Theme developed by me based on Dracula and Legendary Dark themes [Theme](https://marketplace.visualstudio.com/items?itemName=Kinnitchi.kinnitchi-theme&ssr=false#review-details)
 
 <h3>GitHub Stats</h3>
