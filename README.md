@@ -10,7 +10,7 @@
 - 🌍 Based in **São Paulo, SP — Brazil**
 - 💡 Passionate about **Fluig TOTVS**, front-end development, workflow automation (BPM) and API integrations
 - 🎨 Published VS Code theme → [Kinnitchi Theme](https://marketplace.visualstudio.com/items?itemName=Kinnitchi.kinnitchi-theme)
-- 🌐 Portfolio → [kinnitchi.github.io/kinnitchi.portfolio](https://kinnitchi.github.io/kinnitchi.portfolio/)
+- 🌐 Portfolio → [kinnitchi.github.io/kinnitchi.portfolio](https://kinnitchi-portfolio.vercel.app/)
 
 ---
 
